@@ -25,6 +25,7 @@ local files = {
   "CCGPS/gpsstartup2.lua",
   "CCGPS/gpsstartup3.lua",
   "CCGPS/gpsstartup4.lua",
+  "CCGPS/gpsstartup5.lua",
   "CCQOL/hierarchy.lua",
   "CCStarter/login.lua"
 }
