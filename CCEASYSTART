@@ -18,7 +18,7 @@ local branch = "main"
 -- List of files to download (update with your actual file paths)
 local files = {
   "CCMining/stripminer.lua",
-  "CCGPS/gps.lua",
+  "CCGPS/gpssetup.lua",
   "CCQOL/hierarchy.lua"
 }
 
