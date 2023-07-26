@@ -18,16 +18,8 @@ local branch = "main"
 -- List of files to download (update with your actual file paths)
 local files = {
   "CCMining/stripminer.lua",
-  "CCGPS/gpsstartup.lua",
-  "CCGPS/gpsstartup2.lua",
-  "CCGPS/gpsstartup3.lua",
-  "CCGPS/gpsstartup4.lua",
-  "CCGPS/gpsstartup5.lua",
-  "CCGPS/gpsstartup6.lua",
-  "CCGPS/gpsstartup7.lua",
-  "CCGPS/gpsstartup8.lua",
-  "CCQOL/hierarchy.lua",
-  "CCStarter/login.lua"
+  "CCGPS/gps.lua",
+  "CCQOL/hierarchy.lua"
 }
 
 -- Base URL for raw content on GitHub
