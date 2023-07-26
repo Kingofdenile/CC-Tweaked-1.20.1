@@ -18,6 +18,7 @@ local branch = "main"
 -- List of files to download (update with your actual file paths)
 local files = {
   "CCMining/stripminer.lua",
+  "CCMining/stripminer2.lua",
   "CCQOL/hierarchy.lua",
   "CCStarter/login.lua"
 }
