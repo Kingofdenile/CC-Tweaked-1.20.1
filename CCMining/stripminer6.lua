@@ -133,3 +133,4 @@ local function depositItems(chestX, chestY, chestZ)
         turtle.up(deltaY)
         turtle.back(deltaX)
         for i = 2, 16 do
+    end
