@@ -19,6 +19,7 @@ local branch = "main"
 local files = {
   "CCMining/stripminer.lua",
   "CCMining/stripminer2.lua",
+  "CCMining/stripminer3.lua",
   "CCQOL/hierarchy.lua",
   "CCStarter/login.lua"
 }
