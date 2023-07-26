@@ -11,15 +11,15 @@ local function downloadFile(url, path)
 end
 
 -- Replace these variables with your GitHub repository information
-local repoOwner = "YOUR_GITHUB_USERNAME"
-local repoName = "YOUR_REPO_NAME"
+local repoOwner = "Kingofdenile"
+local repoName = "CC-Tweaked-1.20.1"
 local branch = "main"
 
 -- List of files to download (update with your actual file paths)
 local files = {
-  "subfolder1/file1.lua",
-  "subfolder2/file2.lua",
-  "subfolder3/file3.lua"
+  "CCMining/stripminer.lua",
+  "CCQOL/hierarchy.lua",
+  "CCStarter/login.lua"
 }
 
 -- Base URL for raw content on GitHub
