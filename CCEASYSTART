@@ -22,6 +22,7 @@ local files = {
   "CCMining/stripminer3.lua",
   "CCMining/stripminer4.lua",
   "CCGPS/gpsstartup.lua",
+  "CCGPS/gpsstartup2.lua",
   "CCQOL/hierarchy.lua",
   "CCStarter/login.lua"
 }
